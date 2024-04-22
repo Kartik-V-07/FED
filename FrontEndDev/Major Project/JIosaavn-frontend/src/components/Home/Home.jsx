@@ -114,7 +114,7 @@ const Home = () => {
         </div>
         <div className="flex justify-between my-4 items-center">
           <span className="text-xl font-bold hover:underline cursor-pointer">
-            Spotify List
+            Jio-Saavan List
           </span>
           <span>Show All</span>
         </div>
